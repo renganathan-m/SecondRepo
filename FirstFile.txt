@@ -1,3 +1,6 @@
 First Line of text
 Saecond Line
+<<<<<<< HEAD
 Third Line added-- from local.
+=======
+>>>>>>> eecdba8e9a988dacbbab34dd63b10f2759960ff6
